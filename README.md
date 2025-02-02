@@ -7,12 +7,13 @@ harmancheema-cookie-recipe
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Chocolate Chip Cookies Recipe</title>
+    
 </head>
 <br>
 
 <!--NAV MENU-->
 <p>
-    <a href="#"title="Go to Home Page" target="_self">Home</a>&nbsp;|&nbsp;
+    <a href="index.html"title="Go to Home Page" target="_self">Home</a>&nbsp;|&nbsp;
     <a href="ingredients.html" title="Ingredients" target="_self">Ingredients</a>&nbsp;|&nbsp;
     <a href="instructions.html"title="Instructions" target="_self">Instructions</a>&nbsp;|&nbsp;
     <a href="tips.html"title="Tips" target="_self">Tips</a>
@@ -231,8 +232,6 @@ harmancheema-cookie-recipe
     <li>You can add chopped nuts like walnuts or pecans for extra texture if desired.</li>
     <li>Store cookies in an airtight container to maintain freshness.</li>
 </ul>
-
-</ol>
 
 </html>
     
