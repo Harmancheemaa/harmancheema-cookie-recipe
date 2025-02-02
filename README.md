@@ -18,6 +18,7 @@ harmancheema-cookie-recipe
     <a href="tips.html"title="Tips" target="_self">Tips</a>
 </p>
 
+
 <body>
     <h1>Chocolate Chip Cookies Recipe</h1>
     <h2><em>By: Chef Harman Cheema</em></h2>
@@ -115,16 +116,7 @@ harmancheema-cookie-recipe
 </ol>
 
 </html>
-
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chocolate Chip Cookies Recipe</title>
-</head>
-<body>
-    
+<br>
     <!--NAV MENU-->
 <p>
     <a href="index.html"title="Go to Home Page" target="_self">Home</a>&nbsp;|&nbsp;
@@ -187,14 +179,6 @@ harmancheema-cookie-recipe
 <br>
 <hr>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chocolate Chip Cookies Recipe</title>
-</head>
-<body>
     
 <!--NAV MENU-->
 <p>
@@ -227,14 +211,7 @@ harmancheema-cookie-recipe
 <br>
 <hr>
 
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Chocolate Chip Cookies Recipe</title>
-</head>
-<body>
+
     
 <!--NAV MENU-->
 <p>
